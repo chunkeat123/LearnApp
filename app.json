@@ -1,0 +1,9 @@
+{
+  "name": "LearnApp",
+  "displayName": "LearnApp",
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.LearnApp"
+    }
+  }
+}

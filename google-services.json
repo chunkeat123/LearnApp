@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985455443299",
+    "project_id": "learnapp-d10ec",
+    "storage_bucket": "learnapp-d10ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985455443299:android:809bab8a97994c23bee756",
+        "android_client_info": {
+          "package_name": "com.LearnApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985455443299-d24j1f5m8ogsoshpids6c2ht1bp13jah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LearnApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "985455443299-log72mbpves59sjdv49mj820it0vj8co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCusmMCe4D6Z9VfkjeolYmlyhKCq9qSkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985455443299-log72mbpves59sjdv49mj820it0vj8co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
